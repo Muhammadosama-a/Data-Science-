@@ -1,4 +1,4 @@
-#Superstore Profit Prediction-
+
 2️⃣ AI-Powered Superstore Profit Prediction
 
 📌 Description:
